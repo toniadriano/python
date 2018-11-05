@@ -1,0 +1,9 @@
+,column_name,missing_count,filling_factor
+0,CustomerID,135080,75.0733056657114
+1,Description,1454,99.73168926886248
+2,InvoiceNo,0,100.0
+3,StockCode,0,100.0
+4,Quantity,0,100.0
+5,InvoiceDate,0,100.0
+6,UnitPrice,0,100.0
+7,Country,0,100.0
