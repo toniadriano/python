@@ -1,0 +1,6 @@
+,column_name,missing_count,filling_factor
+0,Title,0,100.0
+1,Tags,0,100.0
+2,Body,0,100.0
+3,CreationDate,0,100.0
+4,Score,0,100.0
